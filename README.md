@@ -1,5 +1,7 @@
 # Product And Employee Analysis of Coco Company
 In this project we were given data of COCO chocolate company where our main objective was to find the performance of product types in various markets as well as to find the performance of the particular employee.
+<img width="779" height="444" alt="coco_dash" src="https://github.com/user-attachments/assets/b6513c9f-6d97-44b3-b4fa-140ed76c1a9d" /> <br>
+
 
 The dataset consists of the main data table which is also a FACT table of the dataset, it has information of the Sales Person who has managed to sale the particular product in the specific geography on particular date. This data table also tells us the amount, no of customers and no. of boxes delivered. The other three tables are DIMENSION tables: Product, Geo and Sales Person are relationship tables.
 
